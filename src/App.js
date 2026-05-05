@@ -177,7 +177,6 @@ function App() {
   return (
     <div className="app">
       <h1 className="app-title">FitLog - Workout Tracker</h1>
-      <p className="app-subtitle">Week 4 DAVOWE9952</p>
 
       <Button label="Sign Out" onClick={handleSignOut} />
 
