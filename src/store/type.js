@@ -1,0 +1,2 @@
+export const SET_WORKOUTS = "SET_WORKOUTS";
+export const SET_SELECTED_SPLIT = "SET_SELECTED_SPLIT";
